@@ -13,6 +13,7 @@ I am Vinayak Bora,I am currently pursuing my Bachelor's in Computer Science. I a
 ## Tech Stacks
 
 ###### Learning
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
 ![React](https://img.shields.io/badge/React-%231DA1F2.svg?&style=for-the-badge&logo=React&logoColor=black&color=61DAFB)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?&style=for-the-badge&logo=Node.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
@@ -33,7 +34,6 @@ I am Vinayak Bora,I am currently pursuing my Bachelor's in Computer Science. I a
 
 ###### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c)
 
 ###### Version Control
