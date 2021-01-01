@@ -39,4 +39,4 @@ I am Vinayak Bora,I am currently pursuing my Bachelor's in Computer Science. I a
 ---
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Vinayakbora&theme=highcontrast&show_icons=true&count_private=true) 
-                                     ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayakbora)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayakbora)
