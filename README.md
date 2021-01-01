@@ -37,3 +37,5 @@ I am Vinayak Bora,I am currently pursuing my Bachelor's in Computer Science. I a
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 ---
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayakbora)
