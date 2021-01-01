@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Vinayak Bora,I am currently pursuing my Bachelor's in Computer Science. I am a pre-final year CS under-grad from SRMIST KTR Campus, Chennai. I am a front-end developer and an ML and AI enthusiast.
 
 <!--
 **Vinayakbora/Vinayakbora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
