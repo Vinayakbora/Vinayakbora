@@ -5,7 +5,7 @@ I am Vinayak Bora,I am currently pursuing my Bachelor's in Computer Science. I a
 
 ## Connect with me on - 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vinayak-bora-7833311b7/) 
-[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:contact.vinayakbora09@gmail.com)
+[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:vinayakbora09@gmail.com)
 [<img src ="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white%22">](https://vinayakbora.github.io/Portfolio/site/resume.pdf)
 [<img src ="https://img.shields.io/badge/Website-AD-%231877F2.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://vinayakbora.github.io/Portfolio/site/)
 
