@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Vinayak Bora,I am currently pursuing my Bachelor's in Computer Science. I am a pre-final year CS under-grad from SRMIST KTR Campus, Chennai. I am a front-end developer and an ML and AI enthusiast. Most recently working on Android Development.
+I am Vinayak Bora, currently pursuing my Bachelor's in Computer Science Engineering. I am a final year CS under-grad from SRMIST KTR Campus, Chennai. I am an Android developer and an ML enthusiast. I am currently learning Data Analytics with Google Data Analytics Program. I also have a good command in Databases and Front-End Development.
 
 ---
 
