@@ -42,6 +42,6 @@ I am Vinayak Bora, a final year CS under-grad from SRMIST KTR Campus, Chennai. I
 
 ---
 
-
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayakbora)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Vinayakbora&theme=highcontrast&show_icons=true&count_private=true) 
 
