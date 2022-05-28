@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Vinayak Bora, a final year CS under-grad from SRMIST KTR Campus, Chennai. I am an Android developer and an ML enthusiast, currently interning at Bajaj Finserv Markets as a Mobile Developer, with experience in Databases and Front-End Development.
+I am Vinayak Bora, a SDE intern at Bajaj Markets. I am an Android developer and an ML enthusiast, currently working in the Laravel Framework, with experience in Databases and Front-End Development.
 
 ---
 
