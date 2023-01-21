@@ -14,7 +14,6 @@ I am Vinayak Bora, an SDE-I at Bajaj FINSERV. I am an Android developer with Kot
 
 ###### Learning
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-%231DA1F2.svg?&style=for-the-badge&logo=React&logoColor=black&color=61DAFB)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?&style=for-the-badge&logo=Node.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
@@ -36,6 +35,7 @@ I am Vinayak Bora, an SDE-I at Bajaj FINSERV. I am an Android developer with Kot
 ###### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ###### Version Control
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
