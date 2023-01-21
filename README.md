@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Vinayak Bora, a SDE intern at Bajaj Markets. I am an Android developer and an ML enthusiast, currently working in the Laravel Framework, with experience in Databases and Front-End Development.
+I am Vinayak Bora, an SDE-I at Bajaj FINSERV. I am an Android developer with Kotlin as my tech stack. I was previously working in the Laravel and Magento Framework, with experience in Databases and Front-End Development.
 
 ---
 
