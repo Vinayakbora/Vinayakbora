@@ -1,5 +1,10 @@
 ### Hi there 👋
-I am Vinayak Bora, an SDE-I at Bajaj FINSERV. I am an Android developer with Kotlin as my tech stack. I was previously working in the Laravel and Magento Framework, with experience in Databases and Front-End Development.
+
+I am a highly motivated and skilled Software Engineer with one year of professional experience in the field with a strong passion for Android Development. Currently, I am an integral part of the Mobile Development Team at Bajaj Markets, where I specialize in utilizing Kotlin for Android Development. My expertise lies in designing and developing robust and user-friendly applications that deliver exceptional user experiences.
+
+In my previous role, I had the opportunity to work closely with the backend team, where I contributed to the development of APIs using Laravel. This experience has provided me with a well-rounded understanding of the full software development lifecycle, from backend architecture to Frontend implementation. It has also equipped me with the ability to collaborate effectively with cross-functional teams to deliver high-quality products.
+
+In addition to my Mobile and Backend Development skills, I possess strong proficiency in SQL and have a keen eye for Frontend Development. I am adept at crafting elegant and responsive user interfaces that enhance the overall user experience. I am constantly staying up to date with the latest trends and technologies in the industry, ensuring that my skill set remains relevant and adaptable.
 
 ---
 
