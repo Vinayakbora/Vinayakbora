@@ -67,4 +67,5 @@ In addition to my Mobile and Backend Development skills, I possess strong profic
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayakbora)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Vinayakbora&theme=highcontrast&show_icons=true&count_private=true) 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinayakbora&" alt="Vinayak" /></p>
 
