@@ -2,9 +2,9 @@
 
 I am a highly motivated and skilled Software Engineer with one year of professional experience in the field with a strong passion for Android Development. Currently, I am an integral part of the Mobile Development Team at Bajaj Markets, where I specialize in utilizing Kotlin for Android Development. My expertise lies in designing and developing robust and user-friendly applications that deliver exceptional user experiences.
 
-In my previous role, I had the opportunity to work closely with the backend team, where I contributed to the development of APIs using Laravel. This experience has provided me with a well-rounded understanding of the full software development lifecycle, from backend architecture to Frontend implementation. It has also equipped me with the ability to collaborate effectively with cross-functional teams to deliver high-quality products.
+In my previous role, I worked closely with the backend team, contributing to the development of APIs using Laravel. This experience has provided me with a well-rounded understanding of the full software development lifecycle, from backend architecture to Frontend implementation. It has also equipped me with the ability to collaborate effectively with cross-functional teams to deliver high-quality products.
 
-In addition to my Mobile and Backend Development skills, I possess strong proficiency in SQL and have a keen eye for Frontend Development. I am adept at crafting elegant and responsive user interfaces that enhance the overall user experience. I am constantly staying up to date with the latest trends and technologies in the industry, ensuring that my skill set remains relevant and adaptable.
+In addition to my Mobile and Backend Development skills, I possess strong proficiency in SQL and have a keen eye for Frontend Development. I am adept at crafting elegant and responsive user interfaces that enhance the overall user experience. I am constantly updated with the latest trends and technologies in the industry, ensuring that my skill set remains relevant and adaptable.
 
 ---
 
@@ -19,6 +19,7 @@ In addition to my Mobile and Backend Development skills, I possess strong profic
 [![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-6200EE?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/jetpack/compose)
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 
 
 ###### Front-End Stack
@@ -37,6 +38,7 @@ In addition to my Mobile and Backend Development skills, I possess strong profic
 ###### Languages
 [![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
+[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -53,10 +55,8 @@ In addition to my Mobile and Backend Development skills, I possess strong profic
 
 
 ###### Learning
-[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
